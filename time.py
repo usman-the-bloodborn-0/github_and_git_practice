@@ -7,7 +7,7 @@ print("Starting at:", time.strftime("%H:%M:%S"))
 time.sleep(3)
 print("After 3 seconds, current time:", time.strftime("%H:%M:%S"))
 
-# Second delay
+# Second delays
 time.sleep(4)
 print("After 4 more seconds, current time:", time.strftime("%H:%M:%S"))
 
